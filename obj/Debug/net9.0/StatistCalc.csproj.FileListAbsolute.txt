@@ -1,0 +1,14 @@
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.AssemblyInfoInputs.cache
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.AssemblyInfo.cs
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.csproj.CoreCompileInputs.cache
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/StatistCalc
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/StatistCalc.deps.json
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/StatistCalc.runtimeconfig.json
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/StatistCalc.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/StatistCalc.pdb
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/refint/StatistCalc.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.pdb
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.genruntimeconfig.cache
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/ref/StatistCalc.dll
