@@ -12,3 +12,4 @@
 /home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.pdb
 /home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.genruntimeconfig.cache
 /home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/ref/StatistCalc.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.sourcelink.json

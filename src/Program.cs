@@ -1,7 +1,7 @@
 ﻿using System;
-
-namespace CalculadoraEstatistica
-{
+using StatistCalc.src.models;
+ namespace Main
+ {
   class Program
   {
     static void Main(string[] args)
@@ -14,11 +14,15 @@ namespace CalculadoraEstatistica
       int f = simples.FreqAbs = 92;
       double x2 = simples.X = 56;
       int f2 = simples.FreqAbs = 10;
-    //Console.WriteLine("new x: " + simples.X + "\nnew FreqAbs: " + simples.FreqAbs);
+      double x3 = simples.X = 20;
+    Console.WriteLine("fx: " + simples.FX());
     Tabela tabela= new Tabela();
+    
     tabela.AddTabela(x,f);
     tabela.AddTabela(x2,f2);
+    tabela.AddTabela(x3,0);
     tabela.ExibirTabela();
+    //Console.WriteLine("Sigma: " + tabela.SigmaS());
 
               //INTERVALO//
     // IntervaloClasse intervaloClasse= new IntervaloClasse();
