@@ -13,3 +13,14 @@
 /home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.genruntimeconfig.cache
 /home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/ref/StatistCalc.dll
 /home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.sourcelink.json
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/AtkSharp.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/CairoSharp.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/Eto.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/Eto.Gtk.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/GdkSharp.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/GioSharp.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/GLibSharp.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/GtkSharp.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/bin/Debug/net9.0/PangoSharp.dll
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistCalc.csproj.AssemblyReference.cache
+/home/juliano/Documentos/Pessoal/C#/StatistCalc/obj/Debug/net9.0/StatistC.6DAE4E06.Up2Date

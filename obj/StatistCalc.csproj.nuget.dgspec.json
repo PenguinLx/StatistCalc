@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Eto.Platform.Gtk": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

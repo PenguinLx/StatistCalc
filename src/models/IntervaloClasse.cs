@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace StatistCalc.src.models {
     
 public class IntervaloClasse: CalculosEstatisticos {
+     
      TipoCalc tipo = TipoCalc.INTERVALO;
     public IntervaloClasse() {
        
@@ -51,14 +52,14 @@ public double Lsup{
    TODO: x̅ = Σfm/Σf;
 */
 public override double MediaCalc(double sigmafreqM, double sigmafreqAbs){
-    return 0;
+     return sigmafreqM / sigmafreqAbs;
 }
 // public double MediaIntervalo(){
     
 //     return (Linf + Lsup) / 2;
 // }
  public override double CalculoX() => (Linf + Lsup) / 2;
-public double MX(){
+public override double CalculoXVezesFrequencia(){
     return FrequenciaAbs * CalculoX();
 }
 public string showIntervalo(){

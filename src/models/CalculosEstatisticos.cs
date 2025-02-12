@@ -11,10 +11,11 @@ namespace StatistCalc.src.models {
         //NÃO TENHO CERTEZA SE VOU MANTER O X E O FrequenciaAbs AQUI
         public abstract double CalculoX();
         //public abstract double X {get{return x;}}
-        public int FrequenciaAbs{get;set;}
+        public int FrequenciaAbs{get;}
         //  public abstract double FX(); /* calculo fx*/
          //public abstract double Sigma(Tabela tabela);
         // public abstract void FreqAcumulada(); /* calculo frequencia acumulada*/
         public abstract double MediaCalc(double a,double b); /* calculo media*/
+        public abstract double CalculoXVezesFrequencia();
     }
 }

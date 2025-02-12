@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "D6reTqu4OwQ=",
+  "dgSpecHash": "S4Bbe2BiCdQ=",
   "success": true,
   "projectFilePath": "/home/juliano/Documentos/Pessoal/C#/StatistCalc/StatistCalc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/juliano/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/juliano/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/juliano/.nuget/packages/eto.forms/2.9.0/eto.forms.2.9.0.nupkg.sha512",
+    "/home/juliano/.nuget/packages/eto.platform.gtk/2.9.0/eto.platform.gtk.2.9.0.nupkg.sha512",
+    "/home/juliano/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/juliano/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/juliano/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/juliano/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/juliano/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512"
+  ],
   "logs": []
 }
