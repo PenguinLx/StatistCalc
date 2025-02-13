@@ -49,7 +49,7 @@ namespace StatistCalc.src.models {
    
   }
   public double FreqAcumulada(){
-    return 0;
+    throw new NotImplementedException();
   } 
 public void ExibirTabela(TipoCalc tipo){
     string c;
